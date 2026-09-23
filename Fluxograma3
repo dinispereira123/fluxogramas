@@ -43,13 +43,13 @@
             <mxPoint x="515" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jFMV1cBNirwcrsE8A_V--5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="escrever aprovado" vertex="1">
+        <mxCell id="jFMV1cBNirwcrsE8A_V--5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="escrever &quot;A&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;provado&quot;&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="170" x="430" y="250" as="geometry" />
         </mxCell>
         <mxCell id="jFMV1cBNirwcrsE8A_V--12" edge="1" parent="1" source="jFMV1cBNirwcrsE8A_V--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jFMV1cBNirwcrsE8A_V--11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jFMV1cBNirwcrsE8A_V--8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Escrever reprovado" vertex="1">
+        <mxCell id="jFMV1cBNirwcrsE8A_V--8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Escrever &quot;Reprovado&quot;" vertex="1">
           <mxGeometry height="60" width="150" x="205" y="400" as="geometry" />
         </mxCell>
         <mxCell id="jFMV1cBNirwcrsE8A_V--15" edge="1" parent="1" source="jFMV1cBNirwcrsE8A_V--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jFMV1cBNirwcrsE8A_V--14" value="">
