@@ -66,8 +66,8 @@
         <mxCell id="rOP2fNlFJXJ6WOC82WRv-20" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="N=0" vertex="1">
           <mxGeometry height="80" width="80" x="360" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="rOP2fNlFJXJ6WOC82WRv-22" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Sai do programa" vertex="1">
-          <mxGeometry height="60" width="120" x="470" y="490" as="geometry" />
+        <mxCell id="rOP2fNlFJXJ6WOC82WRv-22" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Escreve &quot;Digitou 0 - vai sair do programa&quot;" vertex="1">
+          <mxGeometry height="60" width="200" x="470" y="490" as="geometry" />
         </mxCell>
         <mxCell id="rOP2fNlFJXJ6WOC82WRv-25" edge="1" parent="1" source="rOP2fNlFJXJ6WOC82WRv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.15;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" target="rOP2fNlFJXJ6WOC82WRv-7">
           <mxGeometry relative="1" as="geometry" />
