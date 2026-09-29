@@ -19,7 +19,7 @@
         <mxCell id="4yJ967g1n3usBCXqL6qP-7" edge="1" parent="1" source="4yJ967g1n3usBCXqL6qP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4yJ967g1n3usBCXqL6qP-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4yJ967g1n3usBCXqL6qP-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ler N" vertex="1">
+        <mxCell id="4yJ967g1n3usBCXqL6qP-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Escrever N1 E N2" vertex="1">
           <mxGeometry height="60" width="120" x="340" y="230" as="geometry" />
         </mxCell>
         <mxCell id="4yJ967g1n3usBCXqL6qP-10" edge="1" parent="1" source="4yJ967g1n3usBCXqL6qP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4yJ967g1n3usBCXqL6qP-8" value="">
@@ -37,8 +37,26 @@
             <mxPoint x="580" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hCj99mPP4QI8sPB8kbCU-1" connectable="0" parent="4yJ967g1n3usBCXqL6qP-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Não" vertex="1">
+          <mxGeometry relative="1" x="-0.2337" as="geometry">
+            <mxPoint x="-50" y="79" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCj99mPP4QI8sPB8kbCU-3" edge="1" parent="1" source="4yJ967g1n3usBCXqL6qP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCj99mPP4QI8sPB8kbCU-7" connectable="0" parent="hCj99mPP4QI8sPB8kbCU-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sim" vertex="1">
+          <mxGeometry relative="1" x="-0.16" y="2" as="geometry">
+            <mxPoint x="1" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4yJ967g1n3usBCXqL6qP-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Contador&amp;lt;N" vertex="1">
           <mxGeometry height="80" width="80" x="360" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="hCj99mPP4QI8sPB8kbCU-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Escrever R&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="490" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
